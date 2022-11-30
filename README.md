@@ -1,9 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-
 <h1 align="center">Hi 👋, I'm Ravi Teja</h1>
 <h3 align="center">A passionate Q&A Engineer from India</h3>
 
-img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fmax%2F640%2F1*Eq4Xuv3ZnD8WM90FOKhqDg.gif&imgrefurl=https%3A%2F%2Fkellychinn.medium.com%2Fquality-as-a-team-responsibility-8f789f0bea4f&tbnid=E8btPHhggacGPM&vet=12ahUKEwjmqP7cqNX7AhVJidgFHcy9DvoQMygRegUIARC6Ag..i&docid=KZnq6cYOkzqXRM&w=320&h=240&q=Q%20A%20engineer%20gif&client=firefox-b-d&ved=2ahUKEwjmqP7cqNX7AhVJidgFHcy9DvoQMygRegUIARC6Ag"
+img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravitejasunshine&label=Profile%20views&color=0e75b6&style=flat" alt="ravitejasunshine" /> </p>
 
