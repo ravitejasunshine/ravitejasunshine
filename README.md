@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ravi Teja</h1>
 <h3 align="center">A passionate Q&A Engineer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS4DSRlkv8lotzbJt7ee-9t1kij_cHyWhu3hX51UTjPK5iQwIGAXrbNxYFxgXCg6fd-WE&usqp=CAU">
+<img align="right" alt="Coding" width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS4DSRlkv8lotzbJt7ee-9t1kij_cHyWhu3hX51UTjPK5iQwIGAXrbNxYFxgXCg6fd-WE&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravitejasunshine&label=Profile%20views&color=0e75b6&style=flat" alt="ravitejasunshine" /> </p>
 
