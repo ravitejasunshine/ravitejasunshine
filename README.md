@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravitejasunshine" alt="ravitejasunshine" /></a> </p>
 
-- 🌱 I’m currently learning **Java, Selenium,Cucumber, Api Testing.**
+- 🌱 I’m currently working **Apeksh Infotech & Freelancer**
 
 - ⚡ Fun fact **I Think I am funny**
 
